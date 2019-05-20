@@ -80,3 +80,8 @@ inside the [markdown](./markdown) directory:
 - The `research` directory will list articles based on topics, on the
 `/research` page. These articles are ordered by topic instead of by date.
 Topics correspond to the subdirectories in the `research` directory.
+
+## IPFS
+v1.0.1 uploaded to IPFS with npm dependencies:
+- Get repository: `ipfs get QmSvmWaRFZp9psEfA5BaVpVR7MKJUtwdoWnN2Qq6PKXTXL`
+- Pin repository: `ipfs pin add -r QmSvmWaRFZp9psEfA5BaVpVR7MKJUtwdoWnN2Qq6PKXTXL`
